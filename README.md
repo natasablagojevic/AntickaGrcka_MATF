@@ -1,11 +1,48 @@
-# project_base
-Prazan projekat sa pratećim bibliotekama koje koristimo na času. 
+# AntickaGrckaMATF
 
-# Uputstvo
-1. `git clone https://github.com/matf-racunarska-grafika/project_base.git`
-2. CLion -> Open -> path/to/my/project_base
-3. Main se nalazi u src/main.cpp
-4. Cpp fajlovi idu u src folder
-5. Zaglavlja (h i hpp) fajlovi idu u include
-6. Šejderi idu u folder shaders. `Vertex shader` ima ekstenziju `.vs`, `fragment shader` ima ekstenziju `.fs`
-7. ALT+SHIFT+F10 -> project_base -> run
+## :memo: Opis Projekta 
+
+<hr>
+
+## Pokretanje programa
+
+- Proveriti da li su usaglašeni standardi C++ i instalirani odgovarajući drajveri
+
+- Potrebno je klonirati github repozitorijum, tako što pokrenete narednu komandu u terminalu:
+
+```
+git clone <link>
+```
+
+- Potrebno je otvoriti aplikaciju **CLion**
+	- Open project 
+		- Uneti odgovarajuću putanju od kloniranog repozitorijuma, kojeg ste klonirali u prethodnom koraku
+	- Otvaranje **src** fajla
+		- Nalaženje **main.cpp** datoteke
+		- Bildovanje i pokretanje **main.cpp** datoteke, tako što uradite sledeće:
+			- desni klik
+			- RUN 
+		- ili `ALT + SHIFT + F10` -> project -> run 
+
+
+## :movie_camera: Demo snimak projekta 
+- link: [Project](<link>) <br><br>
+
+## Okruženje 
+- ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+
+## Programski jezik 
+- [![c_plus_plus](https://img.shields.io/badge/Language-C%2B%2B-red)](https://www.cplusplus.com/)
+
+- ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+
+## :hammer: Instalacija
+
+- Preuzeti i instalirati [*CLion*](https://www.jetbrains.com/clion/download/)
+
+- Ako je potrebno nadograditi C++ na odgovarajuću vreziju 
+
+#### Obrađene teme: 
+
+#### 
